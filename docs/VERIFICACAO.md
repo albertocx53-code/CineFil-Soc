@@ -13,3 +13,7 @@ Os dados de títulos, canais, duração em segundos e permissão de incorporaç�
 Canal de publicação não foi tratado como autoria. Dados não confirmados permanecem vazios. Capas são ilustrações editoriais geradas, não cartazes oficiais.
 
 Build local com Node.js 24.22.1 e Next.js 15.5.28. Hospedagem configurada para Node.js 22. Nenhuma publicação remota foi realizada nesta etapa.
+
+## Ajuste do player
+
+O botão externo “Assistir no site original” e o aviso que o mencionava foram removidos da interface a pedido do usuário. Os vídeos continuam incorporados. A marca exibida dentro do player é controlada pelo YouTube; o parâmetro antigo modestbranding não tem efeito, conforme https://developers.google.com/youtube/player_parameters. Essa marca não foi ocultada.

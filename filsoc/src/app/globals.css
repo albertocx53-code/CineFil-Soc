@@ -642,3 +642,37 @@ main { flex: 1; min-height: 60vh; }
 .filters .input { grid-column:span 2; }
 @media(max-width:1000px){.filters{grid-template-columns:1fr 1fr;}.filters .input{grid-column:1/-1;}}
 @media(max-width:520px){.filters{grid-template-columns:1fr;}.filters .input{grid-column:auto;}.filters>div{flex-wrap:wrap;}}
+
+/* Estrutura inspirada no Histoflix: destaque amplo e catálogo único. */
+.stream-home .hero { height: min(82vh, 740px); min-height: 560px; }
+.stream-home .hero-poster, .stream-home .hero-ghost, .stream-home .dust { display:none; }
+.stream-home .hero-bg { left:28%; width:72%; }
+.stream-home .hero-bg .art { transform:none; animation:none; }
+.stream-home .hero-bg img.art-photo { object-position:50% 12%; }
+.stream-home .hero-shade { background:linear-gradient(90deg,#0b0a0d 3%,rgba(11,10,13,.88) 26%,rgba(11,10,13,.22) 68%),linear-gradient(0deg,#0b0a0d 0%,transparent 50%),linear-gradient(180deg,rgba(0,0,0,.35),transparent 25%); }
+.stream-home .hero-content { max-width:660px; padding-bottom:105px; gap:18px; }
+.stream-home .hero-title { font-size:clamp(3.5rem,7vw,6.8rem); max-width:14ch; }
+.stream-home .hero-synopsis { max-width:560px; font-size:1.03rem; line-height:1.65; display:-webkit-box; -webkit-line-clamp:3; -webkit-box-orient:vertical; overflow:hidden; }
+.stream-home .hero-dots { bottom:82px; }
+.stream-catalog { position:relative; z-index:5; margin-top:-50px; padding-bottom:60px; scroll-margin-top:90px; }
+.stream-catalog-head { display:flex; align-items:center; justify-content:space-between; gap:16px; padding:0 var(--pad); margin-bottom:16px; }
+.stream-catalog-head h2 { font-family:var(--disp); font-weight:400; text-transform:uppercase; font-size:clamp(1.8rem,3vw,2.7rem); margin:0; }
+.stream-disciplines { display:flex; gap:8px; flex-wrap:wrap; padding:0 var(--pad) 22px; }
+.stream-disciplines a { padding:8px 14px; border:1px solid var(--line); background:rgba(255,255,255,.04); border-radius:5px; color:var(--ink); font-size:.85rem; text-decoration:none; }
+.stream-disciplines a:hover,.stream-disciplines a:focus-visible { border-color:var(--red); background:rgba(224,55,44,.16); }
+.stream-catalog .card { transition:transform .25s; }
+.stream-catalog .card:hover { transform:translateY(-5px); }
+@media(max-width:760px) {
+ .stream-home .hero { height:650px; min-height:0; }
+ .stream-home .hero-bg { left:0;width:100%; }
+ .stream-home .hero-shade { background:linear-gradient(0deg,#0b0a0d 1%,rgba(11,10,13,.84) 32%,rgba(11,10,13,.12) 100%),linear-gradient(90deg,rgba(11,10,13,.55),transparent); }
+ .stream-home .hero-content { max-width:100%; padding-top:100px; padding-bottom:105px; gap:14px; }
+ .stream-home .hero-title { font-size:clamp(3rem,13vw,4.5rem); }
+ .stream-home .hero-synopsis { font-size:.95rem; }
+ .stream-catalog-head { align-items:flex-start; flex-direction:column; gap:8px; }
+ .stream-catalog-head .btn { padding-left:0; }
+ .stream-catalog { margin-top:-35px; }
+ .stream-home .hero-dots { bottom:62px; }
+}
+.stream-home .hero-bg .art, .stream-home .hero-slide.is-active .hero-bg .art { filter:brightness(.9) saturate(1.05); animation:none; }
+

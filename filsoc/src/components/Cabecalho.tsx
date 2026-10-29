@@ -9,11 +9,7 @@ import { IconChevronDown, IconHome, IconList, IconSearch, IconFilm, IconX } from
 
 const NAV = [
   { href: '/', rotulo: 'Início' },
-  { href: '/secao/filmes', rotulo: 'Filmes' },
-  { href: '/secao/documentarios', rotulo: 'Documentários' },
-  { href: '/secao/filosofia', rotulo: 'Filosofia' },
-  { href: '/secao/sociologia', rotulo: 'Sociologia' },
-  { href: '/secao/slides', rotulo: 'Slides' },
+  { href: '/buscar', rotulo: 'Catálogo' },
   { href: '/minha-lista', rotulo: 'Minha lista' },
 ];
 
@@ -103,7 +99,7 @@ export function Cabecalho() {
       <nav className="bottom-nav" aria-label="Atalhos">
         <Link href="/" aria-current={caminho === '/' ? 'page' : undefined}><IconHome />Início</Link>
         <Link href="/buscar" aria-current={caminho === '/buscar' ? 'page' : undefined}><IconSearch />Buscar</Link>
-        <Link href="/secao/slides" aria-current={caminho === '/secao/slides' ? 'page' : undefined}><IconFilm />Slides</Link>
+        <Link href="/secao/documentarios" aria-current={caminho === '/secao/documentarios' ? 'page' : undefined}><IconFilm />Documentários</Link>
         <Link href="/minha-lista" aria-current={caminho === '/minha-lista' ? 'page' : undefined}><IconList />Minha lista</Link>
       </nav>
     </>

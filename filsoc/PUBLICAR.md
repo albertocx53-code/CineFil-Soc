@@ -33,8 +33,12 @@ As capas individuais estão em `public/capas`, nomeadas pelo identificador do v�
 
 ## Reprodução
 
-Cada vídeo tem player incorporado e link externo. A indicação de incorporação foi conferida na consulta, mas restrições do YouTube podem mudar conforme região, idade, conta ou decisão do canal. Não há cópia dos vídeos no projeto.
+Cada vídeo tem player incorporado. O botão externo foi retirado a pedido do usuário. A indicação de incorporação foi conferida na consulta, mas restrições do YouTube podem mudar conforme região, idade, conta ou decisão do canal. Não há cópia dos vídeos no projeto.
 
 ## Funcionalidades mantidas
 
 Catálogo original, fichas pedagógicas, slides, materiais, favoritos locais, busca sem acentos, trilhas, animações e navegação responsiva. A nova seleção fica na página inicial e em `/buscar?tema=selecao-youtube`.
+
+## Versão atual: somente conteúdos com capa
+
+Esta versão mostra 18 vídeos. Os 35 conteúdos sem imagem foram retirados do catálogo e arquivados em docs/catalogo-anterior-sem-capa.json. A página inicial usa destaque amplo e grade única, inspirados na organização do Histoflix. Não há login. As funções de fichas e slides permanecem no código para uso futuro, mas os conteúdos antigos sem imagem não são exibidos.

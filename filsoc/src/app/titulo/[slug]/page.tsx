@@ -30,7 +30,7 @@ function Incorporado({ item, tipo }: { item: L; tipo: 'slides' | 'video' }) {
       ) : null}
       <figcaption>
         <span>{item.titulo}</span>
-        <a href={item.url} target="_blank" rel="noopener noreferrer" className="btn btn--ghost"><IconExternal /> {tipo === 'video' ? 'Assistir no site original' : 'Abrir apresentação'}</a>
+        {tipo === 'slides' && <a href={item.url} target="_blank" rel="noopener noreferrer" className="btn btn--ghost"><IconExternal /> Abrir apresentação</a>}
       </figcaption>
     </figure>
   );
@@ -113,7 +113,6 @@ export default async function TituloPagina({ params }: { params: Promise<{ slug:
 
         {t.videos.length > 0 && (
           <section className="block reveal" id="videos" aria-labelledby="videos-t">
-            <p className="video-help">Se o YouTube limitar a reprodução por região, idade ou permissão do canal, use “Assistir no site original”.</p>
             <h3 id="videos-t">{t.tipo === 'serie' ? `Episódios (${t.videos.length})` : 'Vídeos'}</h3>
             <div className="embeds">{t.videos.map((v) => <Incorporado key={v.url} item={v} tipo="video" />)}</div>
           </section>

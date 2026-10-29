@@ -33,7 +33,7 @@ As capas individuais estão em `public/capas`, nomeadas pelo identificador do v�
 
 ## Reprodução
 
-Cada vídeo tem player incorporado e link externo. A indicação de incorporação foi conferida na consulta, mas restrições do YouTube podem mudar conforme região, idade, conta ou decisão do canal. Não há cópia dos vídeos no projeto.
+Cada vídeo tem player incorporado. O botão externo foi retirado a pedido do usuário. A indicação de incorporação foi conferida na consulta, mas restrições do YouTube podem mudar conforme região, idade, conta ou decisão do canal. Não há cópia dos vídeos no projeto.
 
 ## Funcionalidades mantidas
 

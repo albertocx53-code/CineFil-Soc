@@ -24,7 +24,6 @@ export function Rodape() {
           <Link href="/">Início</Link>
           <Link href="/secao/filmes">Filmes</Link>
           <Link href="/secao/documentarios">Documentários</Link>
-          <Link href="/secao/slides">Slides</Link>
           <Link href="/minha-lista">Minha lista</Link>
           <Link href="/buscar">Pesquisar</Link>
         </nav>

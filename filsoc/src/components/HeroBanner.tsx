@@ -61,7 +61,8 @@ export function HeroBanner({ itens }: { itens: Titulo[] }) {
     >
       {itens.map((t, n) => {
         const ativo = n === i;
-        const palavras = t.titulo.split(' ');
+        const nome = t.chamada ?? t.titulo;
+        const palavras = nome.split(' ');
         return (
           <div key={t.slug} className={`hero-slide${ativo ? ' is-active' : ''}`} aria-hidden={!ativo} inert={!ativo}>
             <div className="hero-bg">
@@ -76,7 +77,7 @@ export function HeroBanner({ itens }: { itens: Titulo[] }) {
             </Link>
             <div className="hero-content">
               <div className="hero-kicker"><i />{kicker(t)}</div>
-              <h1 className={`hero-title${t.titulo.length > 26 ? ' hero-title--longo' : ''}`}>
+              <h1 className={`hero-title${nome.length > 26 ? ' hero-title--longo' : ''}`}>
                 {palavras.map((p, k) => (
                   <Fragment key={k}><span className="w"><span style={{ '--i': String(k) } as CSSProperties}>{p}</span></span>{k < palavras.length - 1 ? ' ' : ''}</Fragment>
                 ))}
@@ -90,7 +91,9 @@ export function HeroBanner({ itens }: { itens: Titulo[] }) {
               </div>
               <p className="hero-synopsis">{t.sinopse}</p>
               <div className="hero-actions">
-                {t.slides.length > 0 ? (
+                {t.videos.length > 0 ? (
+                  <Link href={`/titulo/${t.slug}#videos`} className="btn btn--red btn--lg"><IconPlay /> Assistir</Link>
+                ) : t.slides.length > 0 ? (
                   <Link href={`/titulo/${t.slug}#slides`} className="btn btn--red btn--lg"><IconPlay /> Ver slides</Link>
                 ) : t.ficha ? (
                   <Link href={`/titulo/${t.slug}#sala-de-aula`} className="btn btn--red btn--lg"><IconBook /> Levar para a aula</Link>

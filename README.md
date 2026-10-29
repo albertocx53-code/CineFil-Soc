@@ -26,3 +26,5 @@ Para produção: npm run build e npm start.
 Consulte PUBLICAR.md para enviar ao GitHub e publicar na Vercel. O projeto não exige banco de dados nem variáveis de ambiente. Não há tela de login.
 
 Dados: src/data/catalogo.json. Capas geradas individualmente pela ferramenta integrada de imagens: public/capas. Prompts: docs/capas-prompts.json. Registros de pesquisa: docs/videos-verificados.json e docs/incorporacao.json. Testes: docs/VERIFICACAO.md.
+
+Atualização do player: o botão externo foi removido. A reprodução ocorre no player incorporado. A marca interna do YouTube é definida pelo próprio serviço.

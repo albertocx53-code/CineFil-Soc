@@ -1,33 +1,19 @@
-# Verificação da atualização — 29/10/2026
+# Verificação da versão com imagens — 29/10/2026
 
-## Conteúdo
+- Catálogo ativo limitado aos 18 conteúdos com capa: 11 Filosofia e 7 Sociologia.
+- 35 conteúdos sem capa retirados das páginas, busca, destaques e favoritos exibidos. Os dados antigos foram arquivados em catalogo-anterior-sem-capa.json e comparados integralmente com o ZIP original.
+- Estrutura da página inicial baseada na demonstração pública do Histoflix: destaque amplo, navegação curta e grade única. Identidade, conteúdo e capas mantidos como Fil&Soc.
+- 18 páginas de títulos e 18 capas responderam HTTP 200; todas contêm iframe e link externo.
+- Títulos e durações comparados com os registros originais da pesquisa; temas e identificadores validados.
+- Navegador: 18 cards na página inicial; atalho de Sociologia com 7 resultados; apresentação para celular em 390 pixels sem transbordamento horizontal.
+- Compilação final e verificação de tipos concluídas, com 29 páginas geradas.
 
-- 35 entradas originais comparadas com o ZIP de origem e preservadas integralmente.
-- 18 novas entradas: 11 de Filosofia e 7 de Sociologia.
-- Títulos e canais conferidos pelo oEmbed do YouTube; durações conferidas pelo `videoDetails.lengthSeconds`, com o identificador correspondente ao vídeo solicitado.
-- Os 18 links retornaram `playableInEmbed: true` na consulta. Isso não garante disponibilidade futura ou reprodução em todas as regiões e contas.
-- Canal de publicação não foi confundido com autoria. Direção incluída apenas quando explicitamente identificada no título consultado (Rossellini). Autoria não confirmada não foi inventada.
-- Formatos diferenciados: 14 documentários, 3 filmes e 1 audiobook. Os temas são classificação editorial baseada nos títulos, sem alegação de análise integral dos vídeos.
-- 18 capas originais individuais geradas com a ferramenta integrada de imagens; prompts registrados em `capas-prompts.json`.
+Os dados de títulos, canais, duração em segundos e permissão de incorporação foram conferidos na atualização anterior. Os 18 vídeos retornaram playableInEmbed: true. Restrições do YouTube podem mudar; não houve reprodução integral dos 18 vídeos.
 
-## Testes executados
+Canal de publicação não foi tratado como autoria. Dados não confirmados permanecem vazios. Capas são ilustrações editoriais geradas, não cartazes oficiais.
 
-- `npm run build`: compilação, verificação de tipos e geração de 64 páginas concluídas.
-- 53 páginas de títulos responderam HTTP 200.
-- 18 novas páginas contêm iframe e link externo; 18 imagens responderam HTTP 200.
-- Identificadores únicos, temas existentes e dados de título/duração iguais aos registros de pesquisa.
-- Navegador: seleção completa com 18 cards; filtro de Filosofia com 11; Sociologia com 7. Filtro de Marx combinado com Sociologia retorna 10 entradas, incluindo 6 do catálogo original e 4 novas.
-- Busca `socrates` encontra Sócrates sem exigir acento.
-- Favorito adicionado, exibido em Minha lista e mantido após recarregar; item de teste removido ao final.
-- Página de Sócrates: endereço do iframe e link externo conferidos.
-- Layout verificado em larguras de 390, 768 e 1440 pixels, sem transbordamento horizontal nas páginas verificadas. Revisão visual dos filtros e capas no navegador.
-- Nenhum erro JavaScript reportado nas consultas ao console durante essas verificações.
-- Aplicação rápida de filtros revista para manter as seleções durante a atualização do endereço.
+Build local com Node.js 24.22.1 e Next.js 15.5.28. Hospedagem configurada para Node.js 22. Nenhuma publicação remota foi realizada nesta etapa.
 
-## Ambiente e limites
+## Ajuste do player
 
-Compilado localmente com Node.js 24.22.1 e Next.js 15.5.28. O projeto declara Node.js 22 para hospedagem. Dependências fixadas pelo `package-lock.json`.
-
-O teste automático inicial de navegador externo não iniciou neste ambiente; a validação de interface foi feita no navegador integrado. A conferência dos players incluiu presença, URLs e sinal de permissão do YouTube, sem assistir integralmente aos 18 vídeos. Materiais e links antigos foram preservados e não tiveram a disponibilidade externa revalidada.
-
-Esta verificação documenta o que foi testado; não constitui garantia de ausência de falhas em todos os aparelhos, contas ou serviços externos.
+O botão externo “Assistir no site original” e o aviso que o mencionava foram removidos da interface a pedido do usuário. Os vídeos continuam incorporados. A marca exibida dentro do player é controlada pelo YouTube; o parâmetro antigo modestbranding não tem efeito, conforme https://developers.google.com/youtube/player_parameters. Essa marca não foi ocultada.
