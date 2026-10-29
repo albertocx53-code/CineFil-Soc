@@ -1,0 +1,1204 @@
+{
+  "titulos": [
+    {
+      "slug": "socrates",
+      "tipo": "filme",
+      "titulo": "Sócrates (1971) - Roberto Rossellini (LEG-PT)",
+      "tituloOriginal": null,
+      "chamada": "Sócrates",
+      "sinopse": "Sócrates (1971) - Roberto Rossellini (LEG-PT) — vídeo publicado pelo canal Meu Redor. Organização temática editorial: Sócrates, Ética e moral.",
+      "ano": null,
+      "duracao": 114,
+      "pais": null,
+      "idiomas": [],
+      "generos": [],
+      "disciplinas": [
+        "filosofia"
+      ],
+      "faixa": [],
+      "arte": {
+        "motif": "nodes",
+        "c1": "#25202b",
+        "c2": "#0b0a0d",
+        "accent": "#f2c46d",
+        "kicker": "Filosofia"
+      },
+      "capa": "/capas/cycgDWZPMsE.png",
+      "banner": null,
+      "destaque": true,
+      "ordemDestaque": 0,
+      "popularidade": 85,
+      "direcao": [
+        "Roberto Rossellini"
+      ],
+      "elenco": [],
+      "temas": [
+        "socrates",
+        "etica-e-moral",
+        "selecao-youtube"
+      ],
+      "ondeAssistir": [],
+      "slides": [],
+      "videos": [
+        {
+          "titulo": "Sócrates (1971) - Roberto Rossellini (LEG-PT)",
+          "url": "https://www.youtube.com/watch?v=cycgDWZPMsE"
+        }
+      ],
+      "materiais": [],
+      "ficha": null,
+      "fonte": {
+        "canal": "Meu Redor",
+        "urlCanal": "https://www.youtube.com/@MeuRedor",
+        "segundos": 6826,
+        "verificadoEm": "2026-10-29",
+        "url": "https://www.youtube.com/watch?v=cycgDWZPMsE"
+      }
+    },
+    {
+      "slug": "platao-a-republica",
+      "tipo": "audiobook",
+      "titulo": "PLATÃO | O MITO DA CAVERNA | LIVRO VII – A REPÚBLICA | AUDIOBOOK - VOZ HUMANA | ÁGORA 04.",
+      "tituloOriginal": null,
+      "chamada": "Platão · A República",
+      "sinopse": "PLATÃO | O MITO DA CAVERNA | LIVRO VII – A REPÚBLICA | AUDIOBOOK - VOZ HUMANA | ÁGORA 04. — vídeo publicado pelo canal Ágora. Organização temática editorial: Platão, Teoria do conhecimento.",
+      "ano": null,
+      "duracao": 103,
+      "pais": null,
+      "idiomas": [],
+      "generos": [],
+      "disciplinas": [
+        "filosofia"
+      ],
+      "faixa": [],
+      "arte": {
+        "motif": "nodes",
+        "c1": "#25202b",
+        "c2": "#0b0a0d",
+        "accent": "#f2c46d",
+        "kicker": "Filosofia"
+      },
+      "capa": "/capas/3X_cbmG92U8.png",
+      "banner": null,
+      "destaque": false,
+      "ordemDestaque": null,
+      "popularidade": 84,
+      "direcao": [],
+      "elenco": [],
+      "temas": [
+        "platao",
+        "teoria-do-conhecimento",
+        "selecao-youtube"
+      ],
+      "ondeAssistir": [],
+      "slides": [],
+      "videos": [
+        {
+          "titulo": "PLATÃO | O MITO DA CAVERNA | LIVRO VII – A REPÚBLICA | AUDIOBOOK - VOZ HUMANA | ÁGORA 04.",
+          "url": "https://www.youtube.com/watch?v=3X_cbmG92U8"
+        }
+      ],
+      "materiais": [],
+      "ficha": null,
+      "fonte": {
+        "canal": "Ágora",
+        "urlCanal": "https://www.youtube.com/@%C3%81goravenhaeveja",
+        "segundos": 6191,
+        "verificadoEm": "2026-10-29",
+        "url": "https://www.youtube.com/watch?v=3X_cbmG92U8"
+      }
+    },
+    {
+      "slug": "aristoteles",
+      "tipo": "documentario",
+      "titulo": "Aristóteles: Do nascimento ao mestre que ensinou Alexandre, o Grande",
+      "tituloOriginal": null,
+      "chamada": "Aristóteles",
+      "sinopse": "Aristóteles: Do nascimento ao mestre que ensinou Alexandre, o Grande — vídeo publicado pelo canal Arquivos Históricos. Organização temática editorial: Aristóteles, Teoria do conhecimento.",
+      "ano": null,
+      "duracao": 80,
+      "pais": null,
+      "idiomas": [],
+      "generos": [],
+      "disciplinas": [
+        "filosofia"
+      ],
+      "faixa": [],
+      "arte": {
+        "motif": "nodes",
+        "c1": "#25202b",
+        "c2": "#0b0a0d",
+        "accent": "#f2c46d",
+        "kicker": "Filosofia"
+      },
+      "capa": "/capas/ORNvHnD2U1Y.png",
+      "banner": null,
+      "destaque": false,
+      "ordemDestaque": null,
+      "popularidade": 83,
+      "direcao": [],
+      "elenco": [],
+      "temas": [
+        "aristoteles",
+        "teoria-do-conhecimento",
+        "selecao-youtube"
+      ],
+      "ondeAssistir": [],
+      "slides": [],
+      "videos": [
+        {
+          "titulo": "Aristóteles: Do nascimento ao mestre que ensinou Alexandre, o Grande",
+          "url": "https://www.youtube.com/watch?v=ORNvHnD2U1Y"
+        }
+      ],
+      "materiais": [],
+      "ficha": null,
+      "fonte": {
+        "canal": "Arquivos Históricos",
+        "urlCanal": "https://www.youtube.com/@ArquivosHist%C3%B3ricos-1",
+        "segundos": 4795,
+        "verificadoEm": "2026-10-29",
+        "url": "https://www.youtube.com/watch?v=ORNvHnD2U1Y"
+      }
+    },
+    {
+      "slug": "rene-descartes",
+      "tipo": "filme",
+      "titulo": "3. LUMIÈRE OPUS - Filme sobre filosofia. RENÉ DESCARTES, de Roberto Rossellini",
+      "tituloOriginal": null,
+      "chamada": "René Descartes",
+      "sinopse": "3. LUMIÈRE OPUS - Filme sobre filosofia. RENÉ DESCARTES, de Roberto Rossellini — vídeo publicado pelo canal Oceano Vieira de Melo - VÍDEO SPIRITE. Organização temática editorial: René Descartes, Teoria do conhecimento.",
+      "ano": null,
+      "duracao": 162,
+      "pais": null,
+      "idiomas": [],
+      "generos": [],
+      "disciplinas": [
+        "filosofia"
+      ],
+      "faixa": [],
+      "arte": {
+        "motif": "nodes",
+        "c1": "#25202b",
+        "c2": "#0b0a0d",
+        "accent": "#f2c46d",
+        "kicker": "Filosofia"
+      },
+      "capa": "/capas/fMUQZHRco-g.png",
+      "banner": null,
+      "destaque": false,
+      "ordemDestaque": null,
+      "popularidade": 82,
+      "direcao": [
+        "Roberto Rossellini"
+      ],
+      "elenco": [],
+      "temas": [
+        "descartes",
+        "teoria-do-conhecimento",
+        "selecao-youtube"
+      ],
+      "ondeAssistir": [],
+      "slides": [],
+      "videos": [
+        {
+          "titulo": "3. LUMIÈRE OPUS - Filme sobre filosofia. RENÉ DESCARTES, de Roberto Rossellini",
+          "url": "https://www.youtube.com/watch?v=fMUQZHRco-g"
+        }
+      ],
+      "materiais": [],
+      "ficha": null,
+      "fonte": {
+        "canal": "Oceano Vieira de Melo - VÍDEO SPIRITE",
+        "urlCanal": "https://www.youtube.com/@1951oceano",
+        "segundos": 9707,
+        "verificadoEm": "2026-10-29",
+        "url": "https://www.youtube.com/watch?v=fMUQZHRco-g"
+      }
+    },
+    {
+      "slug": "kant",
+      "tipo": "documentario",
+      "titulo": "A Filosofia Completa de Kant: Fundamentos da Liberdade e da Responsabilidade – Documentário Completo",
+      "tituloOriginal": null,
+      "chamada": "Immanuel Kant",
+      "sinopse": "A Filosofia Completa de Kant: Fundamentos da Liberdade e da Responsabilidade – Documentário Completo — vídeo publicado pelo canal Philosophy Origins Portuguê. Organização temática editorial: Immanuel Kant, Ética e moral.",
+      "ano": null,
+      "duracao": 88,
+      "pais": null,
+      "idiomas": [],
+      "generos": [],
+      "disciplinas": [
+        "filosofia"
+      ],
+      "faixa": [],
+      "arte": {
+        "motif": "nodes",
+        "c1": "#25202b",
+        "c2": "#0b0a0d",
+        "accent": "#f2c46d",
+        "kicker": "Filosofia"
+      },
+      "capa": "/capas/CIX3XFh6slM.png",
+      "banner": null,
+      "destaque": true,
+      "ordemDestaque": 1,
+      "popularidade": 81,
+      "direcao": [],
+      "elenco": [],
+      "temas": [
+        "kant",
+        "etica-e-moral",
+        "selecao-youtube"
+      ],
+      "ondeAssistir": [],
+      "slides": [],
+      "videos": [
+        {
+          "titulo": "A Filosofia Completa de Kant: Fundamentos da Liberdade e da Responsabilidade – Documentário Completo",
+          "url": "https://www.youtube.com/watch?v=CIX3XFh6slM"
+        }
+      ],
+      "materiais": [],
+      "ficha": null,
+      "fonte": {
+        "canal": "Philosophy Origins Portuguê",
+        "urlCanal": "https://www.youtube.com/@PhilosophyOriginsPortugu%C3%AA",
+        "segundos": 5273,
+        "verificadoEm": "2026-10-29",
+        "url": "https://www.youtube.com/watch?v=CIX3XFh6slM"
+      }
+    },
+    {
+      "slug": "nietzsche",
+      "tipo": "documentario",
+      "titulo": "A Filosofia Completa de Nietzsche: A Crítica Mais Radical da Moral Ocidental",
+      "tituloOriginal": null,
+      "chamada": "Friedrich Nietzsche",
+      "sinopse": "A Filosofia Completa de Nietzsche: A Crítica Mais Radical da Moral Ocidental — vídeo publicado pelo canal Philosophy Origins Portuguê. Organização temática editorial: Friedrich Nietzsche, Ética e moral.",
+      "ano": null,
+      "duracao": 123,
+      "pais": null,
+      "idiomas": [],
+      "generos": [],
+      "disciplinas": [
+        "filosofia"
+      ],
+      "faixa": [],
+      "arte": {
+        "motif": "nodes",
+        "c1": "#25202b",
+        "c2": "#0b0a0d",
+        "accent": "#f2c46d",
+        "kicker": "Filosofia"
+      },
+      "capa": "/capas/JPLlfL4LX5A.png",
+      "banner": null,
+      "destaque": false,
+      "ordemDestaque": null,
+      "popularidade": 80,
+      "direcao": [],
+      "elenco": [],
+      "temas": [
+        "nietzsche",
+        "etica-e-moral",
+        "selecao-youtube"
+      ],
+      "ondeAssistir": [],
+      "slides": [],
+      "videos": [
+        {
+          "titulo": "A Filosofia Completa de Nietzsche: A Crítica Mais Radical da Moral Ocidental",
+          "url": "https://www.youtube.com/watch?v=JPLlfL4LX5A"
+        }
+      ],
+      "materiais": [],
+      "ficha": null,
+      "fonte": {
+        "canal": "Philosophy Origins Portuguê",
+        "urlCanal": "https://www.youtube.com/@PhilosophyOriginsPortugu%C3%AA",
+        "segundos": 7361,
+        "verificadoEm": "2026-10-29",
+        "url": "https://www.youtube.com/watch?v=JPLlfL4LX5A"
+      }
+    },
+    {
+      "slug": "sartre-humano",
+      "tipo": "documentario",
+      "titulo": "Humano, Demasiado Humano: Sartre (Legendado) - Documentário Completo",
+      "tituloOriginal": null,
+      "chamada": "Sartre · Humano, demasiado humano",
+      "sinopse": "Humano, Demasiado Humano: Sartre (Legendado) - Documentário Completo — vídeo publicado pelo canal Desmistificando. Organização temática editorial: Jean-Paul Sartre, Existencialismo e liberdade.",
+      "ano": null,
+      "duracao": 47,
+      "pais": null,
+      "idiomas": [],
+      "generos": [],
+      "disciplinas": [
+        "filosofia"
+      ],
+      "faixa": [],
+      "arte": {
+        "motif": "nodes",
+        "c1": "#25202b",
+        "c2": "#0b0a0d",
+        "accent": "#f2c46d",
+        "kicker": "Filosofia"
+      },
+      "capa": "/capas/TWuRmrk8Vx4.png",
+      "banner": null,
+      "destaque": false,
+      "ordemDestaque": null,
+      "popularidade": 79,
+      "direcao": [],
+      "elenco": [],
+      "temas": [
+        "sartre",
+        "existencialismo",
+        "selecao-youtube"
+      ],
+      "ondeAssistir": [],
+      "slides": [],
+      "videos": [
+        {
+          "titulo": "Humano, Demasiado Humano: Sartre (Legendado) - Documentário Completo",
+          "url": "https://www.youtube.com/watch?v=TWuRmrk8Vx4"
+        }
+      ],
+      "materiais": [],
+      "ficha": null,
+      "fonte": {
+        "canal": "Desmistificando",
+        "urlCanal": "https://www.youtube.com/@Desmistificando42",
+        "segundos": 2815,
+        "verificadoEm": "2026-10-29",
+        "url": "https://www.youtube.com/watch?v=TWuRmrk8Vx4"
+      }
+    },
+    {
+      "slug": "hannah-arendt-filme",
+      "tipo": "filme",
+      "titulo": "Hannah Arendt - Ideias Que Chocaram o Mundo - 2012 (filme)",
+      "tituloOriginal": null,
+      "chamada": "Hannah Arendt",
+      "sinopse": "Hannah Arendt - Ideias Que Chocaram o Mundo - 2012 (filme) — vídeo publicado pelo canal Gimi Ramos. Organização temática editorial: Hannah Arendt, Filosofia política.",
+      "ano": null,
+      "duracao": 114,
+      "pais": null,
+      "idiomas": [],
+      "generos": [],
+      "disciplinas": [
+        "filosofia"
+      ],
+      "faixa": [],
+      "arte": {
+        "motif": "nodes",
+        "c1": "#25202b",
+        "c2": "#0b0a0d",
+        "accent": "#f2c46d",
+        "kicker": "Filosofia"
+      },
+      "capa": "/capas/Yf50AOaGnKI.png",
+      "banner": null,
+      "destaque": false,
+      "ordemDestaque": null,
+      "popularidade": 78,
+      "direcao": [],
+      "elenco": [],
+      "temas": [
+        "arendt",
+        "filosofia-politica",
+        "selecao-youtube"
+      ],
+      "ondeAssistir": [],
+      "slides": [],
+      "videos": [
+        {
+          "titulo": "Hannah Arendt - Ideias Que Chocaram o Mundo - 2012 (filme)",
+          "url": "https://www.youtube.com/watch?v=Yf50AOaGnKI"
+        }
+      ],
+      "materiais": [],
+      "ficha": null,
+      "fonte": {
+        "canal": "Gimi Ramos",
+        "urlCanal": "https://www.youtube.com/@gimiramos74",
+        "segundos": 6817,
+        "verificadoEm": "2026-10-29",
+        "url": "https://www.youtube.com/watch?v=Yf50AOaGnKI"
+      }
+    },
+    {
+      "slug": "schopenhauer",
+      "tipo": "documentario",
+      "titulo": "SCHOPENHAUER: Por que o Ser Humano Nunca é Feliz – Documentário",
+      "tituloOriginal": null,
+      "chamada": "Arthur Schopenhauer",
+      "sinopse": "SCHOPENHAUER: Por que o Ser Humano Nunca é Feliz – Documentário — vídeo publicado pelo canal Philosophy Origins Portuguê. Organização temática editorial: Arthur Schopenhauer, Desejo e felicidade.",
+      "ano": null,
+      "duracao": 63,
+      "pais": null,
+      "idiomas": [],
+      "generos": [],
+      "disciplinas": [
+        "filosofia"
+      ],
+      "faixa": [],
+      "arte": {
+        "motif": "nodes",
+        "c1": "#25202b",
+        "c2": "#0b0a0d",
+        "accent": "#f2c46d",
+        "kicker": "Filosofia"
+      },
+      "capa": "/capas/_8_R8d6Cfu0.png",
+      "banner": null,
+      "destaque": false,
+      "ordemDestaque": null,
+      "popularidade": 77,
+      "direcao": [],
+      "elenco": [],
+      "temas": [
+        "schopenhauer",
+        "desejo-e-felicidade",
+        "selecao-youtube"
+      ],
+      "ondeAssistir": [],
+      "slides": [],
+      "videos": [
+        {
+          "titulo": "SCHOPENHAUER: Por que o Ser Humano Nunca é Feliz – Documentário",
+          "url": "https://www.youtube.com/watch?v=_8_R8d6Cfu0"
+        }
+      ],
+      "materiais": [],
+      "ficha": null,
+      "fonte": {
+        "canal": "Philosophy Origins Portuguê",
+        "urlCanal": "https://www.youtube.com/@PhilosophyOriginsPortugu%C3%AA",
+        "segundos": 3795,
+        "verificadoEm": "2026-10-29",
+        "url": "https://www.youtube.com/watch?v=_8_R8d6Cfu0"
+      }
+    },
+    {
+      "slug": "heidegger",
+      "tipo": "documentario",
+      "titulo": "MARTIN HEIDEGGER: O Filósofo Que Redefiniu A Existência Humana - Documentário",
+      "tituloOriginal": null,
+      "chamada": "Martin Heidegger",
+      "sinopse": "MARTIN HEIDEGGER: O Filósofo Que Redefiniu A Existência Humana - Documentário — vídeo publicado pelo canal Philosophy Origins Portuguê. Organização temática editorial: Martin Heidegger, Existência e tempo.",
+      "ano": null,
+      "duracao": 62,
+      "pais": null,
+      "idiomas": [],
+      "generos": [],
+      "disciplinas": [
+        "filosofia"
+      ],
+      "faixa": [],
+      "arte": {
+        "motif": "nodes",
+        "c1": "#25202b",
+        "c2": "#0b0a0d",
+        "accent": "#f2c46d",
+        "kicker": "Filosofia"
+      },
+      "capa": "/capas/gTInEz-8W7s.png",
+      "banner": null,
+      "destaque": false,
+      "ordemDestaque": null,
+      "popularidade": 76,
+      "direcao": [],
+      "elenco": [],
+      "temas": [
+        "heidegger",
+        "existencia-e-tempo",
+        "selecao-youtube"
+      ],
+      "ondeAssistir": [],
+      "slides": [],
+      "videos": [
+        {
+          "titulo": "MARTIN HEIDEGGER: O Filósofo Que Redefiniu A Existência Humana - Documentário",
+          "url": "https://www.youtube.com/watch?v=gTInEz-8W7s"
+        }
+      ],
+      "materiais": [],
+      "ficha": null,
+      "fonte": {
+        "canal": "Philosophy Origins Portuguê",
+        "urlCanal": "https://www.youtube.com/@PhilosophyOriginsPortugu%C3%AA",
+        "segundos": 3720,
+        "verificadoEm": "2026-10-29",
+        "url": "https://www.youtube.com/watch?v=gTInEz-8W7s"
+      }
+    },
+    {
+      "slug": "florestan-fernandes",
+      "tipo": "documentario",
+      "titulo": "Documentário | Florestan Fernandes - O Mestre [2004]",
+      "tituloOriginal": null,
+      "chamada": "Florestan Fernandes",
+      "sinopse": "Documentário | Florestan Fernandes - O Mestre [2004] — vídeo publicado pelo canal Câmara dos Deputados. Organização temática editorial: Florestan Fernandes, Cultura e sociedade.",
+      "ano": null,
+      "duracao": 46,
+      "pais": null,
+      "idiomas": [],
+      "generos": [],
+      "disciplinas": [
+        "sociologia"
+      ],
+      "faixa": [],
+      "arte": {
+        "motif": "nodes",
+        "c1": "#25202b",
+        "c2": "#0b0a0d",
+        "accent": "#f2c46d",
+        "kicker": "Sociologia"
+      },
+      "capa": "/capas/jB3TDIv4POk.png",
+      "banner": null,
+      "destaque": false,
+      "ordemDestaque": null,
+      "popularidade": 75,
+      "direcao": [],
+      "elenco": [],
+      "temas": [
+        "florestan",
+        "cultura-e-sociedade",
+        "selecao-youtube"
+      ],
+      "ondeAssistir": [],
+      "slides": [],
+      "videos": [
+        {
+          "titulo": "Documentário | Florestan Fernandes - O Mestre [2004]",
+          "url": "https://www.youtube.com/watch?v=jB3TDIv4POk"
+        }
+      ],
+      "materiais": [],
+      "ficha": null,
+      "fonte": {
+        "canal": "Câmara dos Deputados",
+        "urlCanal": "https://www.youtube.com/@camaradosdeputadosoficial",
+        "segundos": 2780,
+        "verificadoEm": "2026-10-29",
+        "url": "https://www.youtube.com/watch?v=jB3TDIv4POk"
+      }
+    },
+    {
+      "slug": "quem-foi-karl-marx",
+      "tipo": "documentario",
+      "titulo": "Documentário do DW sobre 'Quem foi Karl Marx'",
+      "tituloOriginal": null,
+      "chamada": "Quem foi Karl Marx",
+      "sinopse": "Documentário do DW sobre 'Quem foi Karl Marx' — vídeo publicado pelo canal Carlos Augusto, diretor do Jornal Grande Bahia. Organização temática editorial: Karl Marx, Trabalho e capitalismo.",
+      "ano": null,
+      "duracao": 42,
+      "pais": null,
+      "idiomas": [],
+      "generos": [],
+      "disciplinas": [
+        "sociologia"
+      ],
+      "faixa": [],
+      "arte": {
+        "motif": "nodes",
+        "c1": "#25202b",
+        "c2": "#0b0a0d",
+        "accent": "#f2c46d",
+        "kicker": "Sociologia"
+      },
+      "capa": "/capas/woeKxTo7LoM.png",
+      "banner": null,
+      "destaque": true,
+      "ordemDestaque": 2,
+      "popularidade": 74,
+      "direcao": [],
+      "elenco": [],
+      "temas": [
+        "marx",
+        "trabalho-e-capitalismo",
+        "selecao-youtube"
+      ],
+      "ondeAssistir": [],
+      "slides": [],
+      "videos": [
+        {
+          "titulo": "Documentário do DW sobre 'Quem foi Karl Marx'",
+          "url": "https://www.youtube.com/watch?v=woeKxTo7LoM"
+        }
+      ],
+      "materiais": [],
+      "ficha": null,
+      "fonte": {
+        "canal": "Carlos Augusto, diretor do Jornal Grande Bahia",
+        "urlCanal": "https://www.youtube.com/@JornalGrandeBahia",
+        "segundos": 2546,
+        "verificadoEm": "2026-10-29",
+        "url": "https://www.youtube.com/watch?v=woeKxTo7LoM"
+      }
+    },
+    {
+      "slug": "o-capital-marx",
+      "tipo": "documentario",
+      "titulo": "O Capital de Karl Marx: Poder, Trabalho e o Significado da Sociedade - Documentário",
+      "tituloOriginal": null,
+      "chamada": "O Capital de Karl Marx",
+      "sinopse": "O Capital de Karl Marx: Poder, Trabalho e o Significado da Sociedade - Documentário — vídeo publicado pelo canal Philosophy Origins Portuguê. Organização temática editorial: Karl Marx, Trabalho e capitalismo.",
+      "ano": null,
+      "duracao": 93,
+      "pais": null,
+      "idiomas": [],
+      "generos": [],
+      "disciplinas": [
+        "sociologia"
+      ],
+      "faixa": [],
+      "arte": {
+        "motif": "nodes",
+        "c1": "#25202b",
+        "c2": "#0b0a0d",
+        "accent": "#f2c46d",
+        "kicker": "Sociologia"
+      },
+      "capa": "/capas/K_s8JfIjnNI.png",
+      "banner": null,
+      "destaque": false,
+      "ordemDestaque": null,
+      "popularidade": 73,
+      "direcao": [],
+      "elenco": [],
+      "temas": [
+        "marx",
+        "trabalho-e-capitalismo",
+        "selecao-youtube"
+      ],
+      "ondeAssistir": [],
+      "slides": [],
+      "videos": [
+        {
+          "titulo": "O Capital de Karl Marx: Poder, Trabalho e o Significado da Sociedade - Documentário",
+          "url": "https://www.youtube.com/watch?v=K_s8JfIjnNI"
+        }
+      ],
+      "materiais": [],
+      "ficha": null,
+      "fonte": {
+        "canal": "Philosophy Origins Portuguê",
+        "urlCanal": "https://www.youtube.com/@PhilosophyOriginsPortugu%C3%AA",
+        "segundos": 5560,
+        "verificadoEm": "2026-10-29",
+        "url": "https://www.youtube.com/watch?v=K_s8JfIjnNI"
+      }
+    },
+    {
+      "slug": "modernidade-reflexiva",
+      "tipo": "documentario",
+      "titulo": "Documentário Modernidade Reflexiva",
+      "tituloOriginal": null,
+      "chamada": "Modernidade reflexiva",
+      "sinopse": "Documentário Modernidade Reflexiva — vídeo publicado pelo canal Ivan Rasera. Organização temática editorial: Modernidade reflexiva, Cultura e sociedade.",
+      "ano": null,
+      "duracao": 29,
+      "pais": null,
+      "idiomas": [],
+      "generos": [],
+      "disciplinas": [
+        "sociologia"
+      ],
+      "faixa": [],
+      "arte": {
+        "motif": "nodes",
+        "c1": "#25202b",
+        "c2": "#0b0a0d",
+        "accent": "#f2c46d",
+        "kicker": "Sociologia"
+      },
+      "capa": "/capas/YGnmBWCmiEo.png",
+      "banner": null,
+      "destaque": false,
+      "ordemDestaque": null,
+      "popularidade": 72,
+      "direcao": [],
+      "elenco": [],
+      "temas": [
+        "modernidade-reflexiva",
+        "cultura-e-sociedade",
+        "selecao-youtube"
+      ],
+      "ondeAssistir": [],
+      "slides": [],
+      "videos": [
+        {
+          "titulo": "Documentário Modernidade Reflexiva",
+          "url": "https://www.youtube.com/watch?v=YGnmBWCmiEo"
+        }
+      ],
+      "materiais": [],
+      "ficha": null,
+      "fonte": {
+        "canal": "Ivan Rasera",
+        "urlCanal": "https://www.youtube.com/@ivanrasera9632",
+        "segundos": 1750,
+        "verificadoEm": "2026-10-29",
+        "url": "https://www.youtube.com/watch?v=YGnmBWCmiEo"
+      }
+    },
+    {
+      "slug": "marx-vida-ideias-legado",
+      "tipo": "documentario",
+      "titulo": "Karl Marx: Vida, Ideias e Legado – A História Completa",
+      "tituloOriginal": null,
+      "chamada": "Karl Marx · Vida, ideias e legado",
+      "sinopse": "Karl Marx: Vida, Ideias e Legado – A História Completa — vídeo publicado pelo canal Cruzando Séculos. Organização temática editorial: Karl Marx, Trabalho e capitalismo.",
+      "ano": null,
+      "duracao": 39,
+      "pais": null,
+      "idiomas": [],
+      "generos": [],
+      "disciplinas": [
+        "sociologia"
+      ],
+      "faixa": [],
+      "arte": {
+        "motif": "nodes",
+        "c1": "#25202b",
+        "c2": "#0b0a0d",
+        "accent": "#f2c46d",
+        "kicker": "Sociologia"
+      },
+      "capa": "/capas/Rb5IongspXI.png",
+      "banner": null,
+      "destaque": false,
+      "ordemDestaque": null,
+      "popularidade": 71,
+      "direcao": [],
+      "elenco": [],
+      "temas": [
+        "marx",
+        "trabalho-e-capitalismo",
+        "selecao-youtube"
+      ],
+      "ondeAssistir": [],
+      "slides": [],
+      "videos": [
+        {
+          "titulo": "Karl Marx: Vida, Ideias e Legado – A História Completa",
+          "url": "https://www.youtube.com/watch?v=Rb5IongspXI"
+        }
+      ],
+      "materiais": [],
+      "ficha": null,
+      "fonte": {
+        "canal": "Cruzando Séculos",
+        "urlCanal": "https://www.youtube.com/@CruzandoSeculos",
+        "segundos": 2366,
+        "verificadoEm": "2026-10-29",
+        "url": "https://www.youtube.com/watch?v=Rb5IongspXI"
+      }
+    },
+    {
+      "slug": "classes-sociais",
+      "tipo": "documentario",
+      "titulo": "As Classes Sociais [Documentário]",
+      "tituloOriginal": null,
+      "chamada": "As classes sociais",
+      "sinopse": "As Classes Sociais [Documentário] — vídeo publicado pelo canal Enigmas da História. Organização temática editorial: Classes sociais, Desigualdade social.",
+      "ano": null,
+      "duracao": 49,
+      "pais": null,
+      "idiomas": [],
+      "generos": [],
+      "disciplinas": [
+        "sociologia"
+      ],
+      "faixa": [],
+      "arte": {
+        "motif": "nodes",
+        "c1": "#25202b",
+        "c2": "#0b0a0d",
+        "accent": "#f2c46d",
+        "kicker": "Sociologia"
+      },
+      "capa": "/capas/pbydkyYXRMM.png",
+      "banner": null,
+      "destaque": true,
+      "ordemDestaque": 3,
+      "popularidade": 70,
+      "direcao": [],
+      "elenco": [],
+      "temas": [
+        "classes-sociais",
+        "desigualdade-social",
+        "selecao-youtube"
+      ],
+      "ondeAssistir": [],
+      "slides": [],
+      "videos": [
+        {
+          "titulo": "As Classes Sociais [Documentário]",
+          "url": "https://www.youtube.com/watch?v=pbydkyYXRMM"
+        }
+      ],
+      "materiais": [],
+      "ficha": null,
+      "fonte": {
+        "canal": "Enigmas da História",
+        "urlCanal": "https://www.youtube.com/@EnigmasdaHist%C3%B3ria",
+        "segundos": 2956,
+        "verificadoEm": "2026-10-29",
+        "url": "https://www.youtube.com/watch?v=pbydkyYXRMM"
+      }
+    },
+    {
+      "slug": "sartre-ser-livre",
+      "tipo": "documentario",
+      "titulo": "Jean-Paul Sartre: Existencialismo e o Peso de Ser Livre - Documentário",
+      "tituloOriginal": null,
+      "chamada": "Sartre · O peso de ser livre",
+      "sinopse": "Jean-Paul Sartre: Existencialismo e o Peso de Ser Livre - Documentário — vídeo publicado pelo canal Philosophy Origins Portuguê. Organização temática editorial: Jean-Paul Sartre, Existencialismo e liberdade.",
+      "ano": null,
+      "duracao": 63,
+      "pais": null,
+      "idiomas": [],
+      "generos": [],
+      "disciplinas": [
+        "filosofia"
+      ],
+      "faixa": [],
+      "arte": {
+        "motif": "nodes",
+        "c1": "#25202b",
+        "c2": "#0b0a0d",
+        "accent": "#f2c46d",
+        "kicker": "Filosofia"
+      },
+      "capa": "/capas/Cl0Z1yELzMQ.png",
+      "banner": null,
+      "destaque": false,
+      "ordemDestaque": null,
+      "popularidade": 69,
+      "direcao": [],
+      "elenco": [],
+      "temas": [
+        "sartre",
+        "existencialismo",
+        "selecao-youtube"
+      ],
+      "ondeAssistir": [],
+      "slides": [],
+      "videos": [
+        {
+          "titulo": "Jean-Paul Sartre: Existencialismo e o Peso de Ser Livre - Documentário",
+          "url": "https://www.youtube.com/watch?v=Cl0Z1yELzMQ"
+        }
+      ],
+      "materiais": [],
+      "ficha": null,
+      "fonte": {
+        "canal": "Philosophy Origins Portuguê",
+        "urlCanal": "https://www.youtube.com/@PhilosophyOriginsPortugu%C3%AA",
+        "segundos": 3800,
+        "verificadoEm": "2026-10-29",
+        "url": "https://www.youtube.com/watch?v=Cl0Z1yELzMQ"
+      }
+    },
+    {
+      "slug": "marx-revolucao-global",
+      "tipo": "documentario",
+      "titulo": "KARL MARX: O Filósofo Que Desencadeou uma Revolução Global - Documentário",
+      "tituloOriginal": null,
+      "chamada": "Karl Marx · Revolução global",
+      "sinopse": "KARL MARX: O Filósofo Que Desencadeou uma Revolução Global - Documentário — vídeo publicado pelo canal Philosophy Origins Portuguê. Organização temática editorial: Karl Marx, Trabalho e capitalismo.",
+      "ano": null,
+      "duracao": 57,
+      "pais": null,
+      "idiomas": [],
+      "generos": [],
+      "disciplinas": [
+        "sociologia"
+      ],
+      "faixa": [],
+      "arte": {
+        "motif": "nodes",
+        "c1": "#25202b",
+        "c2": "#0b0a0d",
+        "accent": "#f2c46d",
+        "kicker": "Sociologia"
+      },
+      "capa": "/capas/ctNvkP37hJw.png",
+      "banner": null,
+      "destaque": false,
+      "ordemDestaque": null,
+      "popularidade": 68,
+      "direcao": [],
+      "elenco": [],
+      "temas": [
+        "marx",
+        "trabalho-e-capitalismo",
+        "selecao-youtube"
+      ],
+      "ondeAssistir": [],
+      "slides": [],
+      "videos": [
+        {
+          "titulo": "KARL MARX: O Filósofo Que Desencadeou uma Revolução Global - Documentário",
+          "url": "https://www.youtube.com/watch?v=ctNvkP37hJw"
+        }
+      ],
+      "materiais": [],
+      "ficha": null,
+      "fonte": {
+        "canal": "Philosophy Origins Portuguê",
+        "urlCanal": "https://www.youtube.com/@PhilosophyOriginsPortugu%C3%AA",
+        "segundos": 3434,
+        "verificadoEm": "2026-10-29",
+        "url": "https://www.youtube.com/watch?v=ctNvkP37hJw"
+      }
+    }
+  ],
+  "categorias": [
+    {
+      "nome": "Filmes para debates",
+      "slug": "para-debate",
+      "tipo": "colecao"
+    },
+    {
+      "nome": "Alegoria da caverna",
+      "slug": "mito-da-caverna",
+      "tipo": "conceito"
+    },
+    {
+      "nome": "Alienação",
+      "slug": "alienacao",
+      "tipo": "conceito"
+    },
+    {
+      "nome": "Banalidade do mal",
+      "slug": "banalidade-do-mal",
+      "tipo": "conceito"
+    },
+    {
+      "nome": "Dúvida metódica",
+      "slug": "duvida-metodica",
+      "tipo": "conceito"
+    },
+    {
+      "nome": "Esclarecimento",
+      "slug": "esclarecimento",
+      "tipo": "conceito"
+    },
+    {
+      "nome": "Justiça",
+      "slug": "justica",
+      "tipo": "conceito"
+    },
+    {
+      "nome": "Totalitarismo",
+      "slug": "totalitarismo",
+      "tipo": "conceito"
+    },
+    {
+      "nome": "Vigilância",
+      "slug": "vigilancia",
+      "tipo": "conceito"
+    },
+    {
+      "nome": "Guy Debord",
+      "slug": "debord",
+      "tipo": "pensador"
+    },
+    {
+      "nome": "Hannah Arendt",
+      "slug": "arendt",
+      "tipo": "pensador"
+    },
+    {
+      "nome": "Henry David Thoreau",
+      "slug": "thoreau",
+      "tipo": "pensador"
+    },
+    {
+      "nome": "Immanuel Kant",
+      "slug": "kant",
+      "tipo": "pensador"
+    },
+    {
+      "nome": "Jean Baudrillard",
+      "slug": "baudrillard",
+      "tipo": "pensador"
+    },
+    {
+      "nome": "Karl Marx",
+      "slug": "marx",
+      "tipo": "pensador"
+    },
+    {
+      "nome": "Max Weber",
+      "slug": "weber",
+      "tipo": "pensador"
+    },
+    {
+      "nome": "Michel Foucault",
+      "slug": "foucault",
+      "tipo": "pensador"
+    },
+    {
+      "nome": "Platão",
+      "slug": "platao",
+      "tipo": "pensador"
+    },
+    {
+      "nome": "René Descartes",
+      "slug": "descartes",
+      "tipo": "pensador"
+    },
+    {
+      "nome": "Shoshana Zuboff",
+      "slug": "zuboff",
+      "tipo": "pensador"
+    },
+    {
+      "nome": "Zygmunt Bauman",
+      "slug": "bauman",
+      "tipo": "pensador"
+    },
+    {
+      "nome": "Cultura e sociedade",
+      "slug": "cultura-e-sociedade",
+      "tipo": "tema"
+    },
+    {
+      "nome": "Direitos humanos",
+      "slug": "direitos-humanos",
+      "tipo": "tema"
+    },
+    {
+      "nome": "Educação e autonomia",
+      "slug": "educacao",
+      "tipo": "tema"
+    },
+    {
+      "nome": "Filosofia política",
+      "slug": "filosofia-politica",
+      "tipo": "tema"
+    },
+    {
+      "nome": "Teoria do conhecimento",
+      "slug": "teoria-do-conhecimento",
+      "tipo": "tema"
+    },
+    {
+      "nome": "Trabalho e capitalismo",
+      "slug": "trabalho-e-capitalismo",
+      "tipo": "tema"
+    },
+    {
+      "nome": "Ética e moral",
+      "slug": "etica-e-moral",
+      "tipo": "tema"
+    },
+    {
+      "slug": "consumo",
+      "nome": "Consumo",
+      "tipo": "conceito"
+    },
+    {
+      "slug": "globalizacao",
+      "nome": "Globalização",
+      "tipo": "conceito"
+    },
+    {
+      "slug": "durkheim",
+      "nome": "Émile Durkheim",
+      "tipo": "pensador"
+    },
+    {
+      "slug": "milton-santos",
+      "nome": "Milton Santos",
+      "tipo": "pensador"
+    },
+    {
+      "slug": "cafe-filosofico",
+      "nome": "Café Filosófico",
+      "tipo": "colecao"
+    },
+    {
+      "slug": "trilhas",
+      "nome": "Trilhas por conteúdo",
+      "tipo": "colecao"
+    },
+    {
+      "slug": "socrates",
+      "nome": "Sócrates",
+      "tipo": "pensador"
+    },
+    {
+      "slug": "aristoteles",
+      "nome": "Aristóteles",
+      "tipo": "pensador"
+    },
+    {
+      "slug": "nietzsche",
+      "nome": "Friedrich Nietzsche",
+      "tipo": "pensador"
+    },
+    {
+      "slug": "sartre",
+      "nome": "Jean-Paul Sartre",
+      "tipo": "pensador"
+    },
+    {
+      "slug": "schopenhauer",
+      "nome": "Arthur Schopenhauer",
+      "tipo": "pensador"
+    },
+    {
+      "slug": "heidegger",
+      "nome": "Martin Heidegger",
+      "tipo": "pensador"
+    },
+    {
+      "slug": "florestan",
+      "nome": "Florestan Fernandes",
+      "tipo": "pensador"
+    },
+    {
+      "slug": "existencialismo",
+      "nome": "Existencialismo e liberdade",
+      "tipo": "tema"
+    },
+    {
+      "slug": "desejo-e-felicidade",
+      "nome": "Desejo e felicidade",
+      "tipo": "tema"
+    },
+    {
+      "slug": "existencia-e-tempo",
+      "nome": "Existência e tempo",
+      "tipo": "tema"
+    },
+    {
+      "slug": "modernidade-reflexiva",
+      "nome": "Modernidade reflexiva",
+      "tipo": "tema"
+    },
+    {
+      "slug": "classes-sociais",
+      "nome": "Classes sociais",
+      "tipo": "tema"
+    },
+    {
+      "slug": "desigualdade-social",
+      "nome": "Desigualdade social",
+      "tipo": "tema"
+    },
+    {
+      "slug": "selecao-youtube",
+      "nome": "Seleção de vídeos",
+      "tipo": "colecao"
+    }
+  ]
+}
